@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">News</string>
+    <!-- Category name for the section new [CHAR LIMIT=20] -->
+    <string name="category_new">New Report</string>
+    <!-- Category name for the section science [CHAR LIMIT=20] -->
+    <string name="category_science">Science Report</string>
+    <!-- Category name for the section music [CHAR LIMIT=20] -->
+    <string name="category_music">Music Report</string>
+    <!-- Category name for the section books [CHAR LIMIT=20] -->
+    <string name="category_books">Books Report</string>
+    <!-- Category name for the section tech [CHAR LIMIT=20] -->
+    <string name="category_tech">Tech Report</string>
+    <!-- Description of the image. -->
+    <string name="description_of_the_news">Description of the news</string>
+    <string name="title">Instagram update: change to horizontal scrolling prompts online uproar</string>
+    <string name="section">Techology</string>
+    <string name="date">2018\-12\-29T17:57:47Z</string>
+    <string name="description" translatable="false">The photo-sharing social media site Instagram has apologised after rolling out a major change
+        to the way users interact with its app to more users than intended – leading to an online outcry and the system being switched back within
+        an hour. The change meant that instead of scrolling through a feed of pictures from friends, as the app has worked since its launch in 2010,
+        users had to tap to see more pictures. Tapping a picture in the middle of the image triggered a “like” of the image. But rather than
+        scrolling vertically, users were required to tap on the right or left side of the image to advance to the next picture or video, with a
+        progress bar indicating how far they were through their newsfeed. The switch to horizontal scrolling was met with immediate hostility from
+        many users, including some high-profile names. The rapper Skepta, who has 1.6 million followers on the Facebook-owned platform, simply posted
+        to Twitter “Instagram. Nooooo” with a facepalm emoji. #InstagramUpdate became one of the top trending Twitter trends in the UK. Responding
+        to the criticism on Twitter, Facebook’s head of Instagram, Adam Mosseri, said the roll-out was an accident and was only meant to be a small
+        test. “If you’re still seeing it, simply restart the app,” he explained. In a separate tweet, he said: “Sorry for the confusion! Always trying
+        new ideas, usually with a much smaller number of people.” There had been indications that Instagram had been testing the change for several
+        months. In October 2018, TechCrunch reported on screenshots being posted showing some users experiencing the change. At the time Instagram
+        would not confirm whether they were working on it, instead issuing the generic statement: “We’re always testing ways to improve the experience
+        on Instagram and bring you closer to the people and things you love.” The tap-to-advance method to browse your friends’ content more closely
+        resembles the interaction within the popular “Stories” feature on Instagram. In September, Instagram’s founders, Kevin Systrom and Mike Krieger,
+        left the company. It had been acquired by Facebook for $1bn in April 2012.</string>
+    <string name="autherName">Martin Belam</string>
+
+    <!-- Text to display in the list when there are no news [CHAR LIMIT=NONE] -->
+    <string name="no_news">No news found.</string>
+    <!-- Error message when there is no internet connectivity [CHAR LIMIT=NONE] -->
+    <string name="no_internet_connection">No internet connection.</string>
+    <!-- Text to display in the settings [CHAR LIMIT=NONE] -->
+    <string name="settings_menu_item">Settings</string>
+    <!-- Text to display inside the settings activity [CHAR LIMIT=NONE] -->
+    <string name="settings_tittle">News Settings</string>
+
+    <!-- Strings For Production-office Preference [CHAR LIMIT=30] -->
+    <string name="settings_location_label">Location</string>
+    <string name="settings_location_key" translatable="false">production_office</string>
+    <string name="settings_location_default" translatable="false">uk</string>
+
+    <!-- Strings For Page-size Preference [CHAR LIMIT=30] -->
+    <string name="settings_limit_label">Limit</string>
+    <string name="settings_limit_key" translatable="false">page_size</string>
+    <string name="settings_limit_default" translatable="false">10</string>
+
+
+    <!-- Strings For Order-By Preference [CHAR LIMIT=30] -->
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_newest_value</string>
+
+    <!-- Label for order-by more recent option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_newest_label">Most Recent</string>
+    <string name="settings_order_by_newest_value" translatable="false">newest</string>
+
+    <!-- Label for order-by less recent option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_oldest_label">Less Recent</string>
+    <string name="settings_order_by_oldest_value" translatable="false">oldest</string>
+
+    <!-- Label for order-by relevance option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_relevance_label">Most relevance</string>
+    <string name="settings_order_by_relevance_value" translatable="false">relevance</string>
+
+    <!-- Name of the city for all the options [CHAR LIMIT=20] -->
+    <string name="name_city">Merida, Yucatan</string>
+
+    <!-- Contact information of the developer [CHAR LIMIT=20] -->
+    <string name="contact_info">info@galpotechsolutions.com</string>
+
+    <!-- Message for Share option in Menu[CHAR LIMIT=20] -->
+    <string name="share_menu">Share</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>

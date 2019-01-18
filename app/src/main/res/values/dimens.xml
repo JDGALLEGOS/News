@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- General Padding -->
+    <dimen name="padding">10dp</dimen>
+    <!-- Text size of the title -->
+    <dimen name="textSizeOfTitle">18sp</dimen>
+    <!-- Text size of other elements -->
+    <dimen name="textSize">14sp</dimen>
+    <!-- Margin in the bottom -->
+    <dimen name="marginBottom">5dp</dimen>
+    <!-- Height of the image -->
+    <dimen name="heightOfImage">180dp</dimen>
+    <!-- Text size of description -->
+    <dimen name="textSizeOfDescription">16sp</dimen>
+    <!-- Margin in the top -->
+    <dimen name="marginTop">3dp</dimen>
+
+    <dimen name="header_height">176dp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="header_margin">8dp</dimen>
+</resources>

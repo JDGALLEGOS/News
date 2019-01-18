@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/settings_tittle">
+
+    <ListPreference
+        android:defaultValue="@string/settings_order_by_default"
+        android:entries="@array/settings_order_by_labels"
+        android:entryValues="@array/settings_order_by_values"
+        android:key="@string/settings_order_by_key"
+        android:title="@string/settings_order_by_label"
+        />
+    <EditTextPreference
+        android:defaultValue="@string/settings_location_default"
+        android:inputType="text"
+        android:key="@string/settings_location_key"
+        android:title="@string/settings_location_label"
+        />
+    <EditTextPreference
+        android:defaultValue="@string/settings_limit_default"
+        android:inputType="numberDecimal"
+        android:key="@string/settings_limit_key"
+        android:title="@string/settings_limit_label"
+        />
+
+
+</PreferenceScreen>
